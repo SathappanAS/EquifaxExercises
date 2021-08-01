@@ -1,6 +1,8 @@
 # EquifaxExercises
 ## Exercise 1 Demo Link
 
+[Selenium Demo Link](https://youtu.be/u2YqEeD2QpQ)
+
 ## Exercises 2 sample output
 
 ### Employee Data output
